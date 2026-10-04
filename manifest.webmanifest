@@ -1,5 +1,5 @@
 {
-  "name": "Yellow Car \u2014 Thomas's Family Edition",
+  "name": "Yellow Car — Thomas's Family Edition",
   "short_name": "Yellow Car",
   "start_url": "./",
   "display": "standalone",
@@ -7,10 +7,10 @@
   "theme_color": "#f5c400",
   "icons": [
     {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "yellow-car-bmw.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
